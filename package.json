@@ -1,8 +1,9 @@
 {
-    "name": "AngularSnippets",
-    "displayName": "AngularSnippetsKartik",
-    "description": "Angular snippets",
+    "name": "angular-snippets",
+    "displayName": "Angular Snippets by Kartik R",
+    "description": "Angular snippets in depth",
     "version": "0.0.1",
+    "publisher": "kartik468",
     "repository": {
         "type": "git",
         "url": ""
