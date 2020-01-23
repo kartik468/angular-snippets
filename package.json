@@ -6,7 +6,7 @@
     "publisher": "kartik468",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/kartik468/angular-snippets"
     },
     "engines": {
         "vscode": "^1.41.0"
