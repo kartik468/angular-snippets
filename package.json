@@ -1,0 +1,24 @@
+{
+    "name": "AngularSnippets",
+    "displayName": "AngularSnippetsKartik",
+    "description": "Angular snippets",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "typescript",
+                "path": "./snippets/typescript.json"
+            }
+        ]
+    }
+}
