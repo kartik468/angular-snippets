@@ -1,0 +1,27 @@
+{
+  "typescript": {
+    "prefix": "typescript",
+    "body": ["```typescript", "```"],
+    "description": "typescript"
+  },
+  "javascript": {
+    "prefix": "javascript",
+    "body": ["```javascript", "```"],
+    "description": "javascript"
+  },
+  "html": {
+    "prefix": "html",
+    "body": ["```html", "```"],
+    "description": "html"
+  },
+  "css": {
+    "prefix": "css",
+    "body": ["```css", "```"],
+    "description": "css"
+  },
+  "scss": {
+    "prefix": "scss",
+    "body": ["```scss", "```"],
+    "description": "scss"
+  }
+}

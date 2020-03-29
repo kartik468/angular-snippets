@@ -1,25 +1,33 @@
 {
-    "name": "angular-snippets",
-    "displayName": "Angular Snippets by Kartik R",
-    "description": "Angular snippets in depth",
-    "version": "0.1.1",
-    "publisher": "kartik468",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/kartik468/angular-snippets"
-    },
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "typescript",
-                "path": "./snippets/typescript.json"
-            }
-        ]
-    }
+  "name": "angular-snippets",
+  "displayName": "Angular Snippets by Kartik R",
+  "description": "Angular snippets in depth",
+  "version": "0.1.1",
+  "publisher": "kartik468",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kartik468/angular-snippets"
+  },
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "typescript",
+        "path": "./snippets/typescript.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html.json"
+      },
+      {
+        "language": "markdown",
+        "path": "./snippets/markdown.json"
+      }
+    ]
+  }
 }
