@@ -1,6 +1,6 @@
 {
-  "table": {
-    "prefix": "",
+  "table bootstrap": {
+    "prefix": "table-bootstrap",
     "body": [
       "<table class=\"table\">",
       "  <thead>",
